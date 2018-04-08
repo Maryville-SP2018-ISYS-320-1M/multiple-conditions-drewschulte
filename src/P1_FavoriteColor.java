@@ -2,12 +2,13 @@ import java.util.Scanner;
 
 /*
 ISYS 320
-Name(s):
-Date: 
+
+Name(s):drew schulte
+Date: april 8 
 */
 
 /*  What was the error?
- 
+ i cant figure it out 
   
  */
 
